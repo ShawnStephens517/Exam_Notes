@@ -1,0 +1,1 @@
+(Logos, generic diagrams used across multiple notes)

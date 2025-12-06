@@ -1,0 +1,62 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FabReadme",
+      "📭",
+      "LiMailbox",
+      "FasRoad",
+      "LiBookCheck"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "99_Templates/_Template_Public_Writeup.md": "LiLayoutTemplate",
+  "99_Templates": "LiFolderUp",
+  "50_Prep_Boxes": {
+    "iconName": "LiBoxes",
+    "iconColor": "#900404"
+  },
+  "40_Vulnerabilities": {
+    "iconName": "FasShieldVirus",
+    "iconColor": "#bc531a"
+  },
+  "30_Tools": {
+    "iconName": "FasToolbox",
+    "iconColor": "#2945d1"
+  },
+  "20_Cheatsheets": {
+    "iconName": "LiBookCheck",
+    "iconColor": "#52cb6a"
+  },
+  "10_Methodology": "FasRoad",
+  "00_Inbox": "📭",
+  "10_Methodology/README.md": "FabReadme",
+  "20_Cheatsheets/README.md": "FabReadme",
+  "30_Tools/README.md": "FabReadme",
+  "40_Vulnerabilities/README.md": "FabReadme",
+  "50_Prep_Boxes/README.md": "FabReadme"
+}
